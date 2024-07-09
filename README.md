@@ -15,17 +15,17 @@ This project is a Book Recommendation System built using Flask. It recommends bo
 2. pip install -r requirements.txt
 
 To run the Flask application, use the following command in terminal:
--python app.py
+python app.py
 
 Open your browser and go to:
 http://127.0.0.1:5000
 
 
 Technologies:-
--Python
--Flask
--pandas
--scikit-learn
--HTML
--CSS 
+Python, 
+Flask, 
+pandas, 
+scikit-learn, 
+HTML, 
+CSS,  
 
